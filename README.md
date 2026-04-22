@@ -1,18 +1,16 @@
 # Привет! Я Анастасия Ильичева
 
-QA Engineer with hands-on experience in manual and automation testing.
-Focused on web applications, API testing, and UI automation with Java.
-📍 Open to QA opportunities (Manual & Automation) | Ready for real projects
-
 QA Engineer (Manual & Automation)
 
+QA Engineer с практическим опытом тестирования веб-приложений и API.  
+Работаю с ручным тестированием, автоматизацией UI (Java + Selenium) и проверкой данных.
+
+📍 Ulyanovsk, Russia
 ---
 
 ## 🛠 Мой стек
 
-Java • Selenium WebDriver • JUnit • TestNG  
-API Testing (Postman) • SQL  
-Git • GitHub • JMeter  
+Java • Selenium WebDriver • JUnit • TestNG • API Testing (Postman) • SQL • Git • GitHub • JMeter  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -53,15 +51,17 @@ Java + Selenium WebDriver
 
 ## 💼 Что я умею
 
-- Писать тест-кейсы и чек-листы  
-- Составлять баг-репорты  
-- Тестировать API  
-- Автоматизировать UI-тесты  
-- Анализировать дефекты и причины ошибок  
+- писать тест-кейсы и чек-листы  
+- оформлять баг-репорты  
+- тестировать API (Postman)  
+- автоматизировать UI-тесты (Java + Selenium)  
+- анализировать дефекты и причины ошибок  
+- работать с Git (commit, push, merge, pull requests)  
+- участвовать в командной разработке   
 
 ---
 
 ## 📫 Контакты
 
-📧 nastya.il03@mail.ru  
-💬 @stasya959  
+📧 почта: nastya.il03@mail.ru  
+💬 тг: @stasya959  
