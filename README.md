@@ -24,19 +24,19 @@ Java • Selenium WebDriver • JUnit • TestNG • API Testing (Postman) • S
 
 ### ⭐ Основные проекты
 
-#### 🔹 Ручное тестирование (E-commerce)
+#### ◆ Ручное тестирование (E-commerce)
 Полный цикл тестирования веб-приложения интернет-магазина  
 👉 [Открыть репозиторий](https://github.com/stasya-03/manual-testing-portfolio/tree/main/ecommerce-testing-project)  
 
 ---
 
-#### 🔹 Автоматизация (командный проект)
+#### ◆ Автоматизация (командный проект)
 Тестирование банковского приложения: баг-репорты, исправление дефектов через pull requests  
 👉 [Открыть репозиторий](https://github.com/stasya-03/banking-app-test-automation)
 
 ---
 
-#### 🔹 Автоматизация покупки тура (UI + DB)
+#### ◆ Автоматизация покупки тура (UI + DB)
 UI-тесты, проверки базы данных, отчеты Allure, запуск через Docker  
 👉 [Открыть репозиторий](https://github.com/stasya-03/tour-purchase-test-automation)  
 
@@ -44,14 +44,17 @@ UI-тесты, проверки базы данных, отчеты Allure, за
 
 ### 🔹 Дополнительно
 
-#### API тестирование (Postman)
-👉 https://github.com/stasya-03/api-testing-postman  
+#### ◆ API тестирование (Postman)
+Тестирование API: запросы, проверки ответов, анализ данных и поиск дефектов  
+Пример баг-репорта и реальные ответы API 
 
-#### SQL для тестировщика
-👉 https://github.com/stasya-03/sql-for-qa  
+👉 [Открыть репозиторий](https://github.com/stasya-03/api-testing-postman)
 
-#### Базовая автоматизация UI (Java + Selenium)
-👉 https://github.com/stasya-03/java-ui-automation  
+#### ◆ SQL для тестировщика
+👉 [Открыть репозиторий](https://github.com/stasya-03/sql-for-qa)  
+
+#### ◆ Базовая автоматизация UI (Java + Selenium)
+👉 [Открыть репозиторий](https://github.com/stasya-03/java-ui-automation)  
 
 ---
 
