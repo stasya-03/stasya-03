@@ -14,18 +14,21 @@ Git • GitHub • JMeter
 
 ## 📂 Портфолио
 
-- 🔹 Ручное тестирование веб-приложения  
-  (test cases, checklist, bug reports, test summary)
+### 🔹 Ручное тестирование
+Test plan, test cases, checklist, bug reports, summary  
+👉 https://github.com/stasya-03/manual-testing-portfolio  
 
-- 🔹 API тестирование  
-  (Postman, позитивные/негативные сценарии)
+### 🔹 API тестирование
+Postman, проверка ответов, позитивные/негативные сценарии  
+👉 https://github.com/stasya-03/api-testing-postman  
 
-- 🔹 Автоматизированные UI-тесты  
-  (Java + Selenium WebDriver)
+### 🔹 Автоматизация UI
+Java + Selenium WebDriver  
+👉 https://github.com/stasya-03/java-ui-automation  
 
-- 🔹 SQL для тестировщика  
-  (запросы, проверки данных)
-
+### 🔹 SQL для тестировщика
+Запросы и проверка данных  
+👉 https://github.com/stasya-03/sql-for-qa  
 ---
 
 ## 💼 Что я умею
