@@ -1,16 +1,44 @@
-## Hi there 👋
+# Привет! Я Анастасия Ильичева
 
-<!--
-**stasya-03/stasya-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer (Manual & Automation)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Мой стек
+
+Java • Selenium WebDriver • JUnit • TestNG  
+API Testing (Postman) • SQL  
+Git • GitHub • JMeter  
+
+---
+
+## 📂 Портфолио
+
+- 🔹 Ручное тестирование веб-приложения  
+  (test cases, checklist, bug reports, test summary)
+
+- 🔹 API тестирование  
+  (Postman, позитивные/негативные сценарии)
+
+- 🔹 Автоматизированные UI-тесты  
+  (Java + Selenium WebDriver)
+
+- 🔹 SQL для тестировщика  
+  (запросы, проверки данных)
+
+---
+
+## 💼 Что я умею
+
+- Писать тест-кейсы и чек-листы  
+- Составлять баг-репорты  
+- Тестировать API  
+- Автоматизировать UI-тесты  
+- Анализировать дефекты и причины ошибок  
+
+---
+
+## 📫 Контакты
+
+📧 nastya.il03@mail.ru  
+💬 @stasya959  
