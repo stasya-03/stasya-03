@@ -83,6 +83,7 @@ UI-тесты, проверки базы данных, отчеты Allure, за
 ## 📄 Резюме
 
 📄 [Скачать резюме (PDF)](./CV_Anastasia_Ilyicheva.pdf)
+
 📄 [Открыть в Google Docs](https://drive.google.com/file/d/17AORZlpXiJ-ZLJUAyTR_tW7eXNf5KhCg/view?usp=sharing)
 
 ---
