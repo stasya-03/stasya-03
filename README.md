@@ -22,28 +22,36 @@ Java • Selenium WebDriver • JUnit • TestNG • API Testing (Postman) • S
 
 ## 📂 Портфолио
 
-### 🔹 Ручное тестирование
-Test plan, test cases, checklist, bug reports, summary  
-👉 [Открыть репозиторий](https://github.com/stasya-03/manual-testing-portfolio)  
+### ⭐ Основные проекты
 
-### 🔹 Автоматизация (командный проект)
+#### 🔹 Ручное тестирование (E-commerce)
+Полный цикл тестирования веб-приложения интернет-магазина  
+👉 [Открыть репозиторий](https://github.com/stasya-03/manual-testing-portfolio/tree/main/ecommerce-testing-project)  
 
-Командный проект по тестированию банковского приложения:  
-поиск дефектов, оформление баг-репортов, исправление багов через pull requests и работа с Git workflow  
+---
 
+#### 🔹 Автоматизация (командный проект)
+Тестирование банковского приложения: баг-репорты, исправление дефектов через pull requests  
 👉 [Открыть репозиторий](https://github.com/stasya-03/banking-app-test-automation)
 
-### 🔹 API тестирование
-Postman, проверка ответов, позитивные/негативные сценарии  
+---
+
+#### 🔹 Автоматизация покупки тура (UI + DB)
+UI-тесты, проверки базы данных, отчеты Allure, запуск через Docker  
+👉 [Открыть репозиторий](https://github.com/stasya-03/tour-purchase-test-automation)  
+
+---
+
+### 🔹 Дополнительно
+
+#### API тестирование (Postman)
 👉 https://github.com/stasya-03/api-testing-postman  
 
-### 🔹 Автоматизация UI
-Java + Selenium WebDriver  
-👉 https://github.com/stasya-03/java-ui-automation 
- 
-### 🔹 SQL для тестировщика
-Запросы и проверка данных  
+#### SQL для тестировщика
 👉 https://github.com/stasya-03/sql-for-qa  
+
+#### Базовая автоматизация UI (Java + Selenium)
+👉 https://github.com/stasya-03/java-ui-automation  
 
 ---
 
@@ -54,7 +62,10 @@ Java + Selenium WebDriver
 - писать тест-кейсы и чек-листы  
 - оформлять баг-репорты  
 - тестировать API (Postman)  
-- автоматизировать UI-тесты (Java + Selenium)  
+- автоматизировать UI-тесты (Java, Selenium, Selenide)  
+- работать с отчетами Allure  
+- выполнять проверки данных в БД  
+- запускать тестовые проекты через Docker  
 - анализировать дефекты и причины ошибок  
 - работать с Git (commit, push, merge, pull requests)  
 - участвовать в командной разработке   
