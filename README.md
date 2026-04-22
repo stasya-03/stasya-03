@@ -1,5 +1,9 @@
 # Привет! Я Анастасия Ильичева
 
+QA Engineer with hands-on experience in manual and automation testing.
+Focused on web applications, API testing, and UI automation with Java.
+📍 Open to QA opportunities (Manual & Automation) | Ready for real projects
+
 QA Engineer (Manual & Automation)
 
 ---
@@ -9,6 +13,12 @@ QA Engineer (Manual & Automation)
 Java • Selenium WebDriver • JUnit • TestNG  
 API Testing (Postman) • SQL  
 Git • GitHub • JMeter  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -30,6 +40,8 @@ Java + Selenium WebDriver
 Запросы и проверка данных  
 👉 https://github.com/stasya-03/sql-for-qa  
 ---
+
+📄 [Скачать резюме](./CV_Anastasia_Ilyicheva.pdf)
 
 ## 💼 Что я умею
 
