@@ -84,7 +84,7 @@ UI-тесты, проверки базы данных, отчеты Allure, за
 
 Сертификаты о прохождении курсов по тестированию и автоматизации:
 
-- [Сертификаты на GitHub](https://github.com/stasya-03/certificates)
+- [Сертификаты на GitHub]([https://github.com/stasya-03/certificates](https://github.com/stasya-03/qa-certificates))
 
 ---
 
