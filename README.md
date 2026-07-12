@@ -113,4 +113,4 @@ UI-тесты на Espresso, Page Object, Android Studio, отчёты Allure.
 
 📧 nastya.il03@mail.ru  
 💬 Telegram: @stasya959
-💻 GitHub: https://github.com/stasya-03
+
